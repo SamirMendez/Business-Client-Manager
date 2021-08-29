@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "buiness-clients": {
+      "hosting": {
+        "Business-Clients": [
+          "buiness-clients"
+        ]
+      }
+    }
+  }
+}
